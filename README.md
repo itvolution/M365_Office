@@ -13,3 +13,5 @@ https://office.com
 https://m365.cloud.microsoft/
 
 https://www.microsoft.com/en-us/microsoft-365/try
+
+https://support.microsoft.com/pl-pl/office/funkcja-x-wyszukaj-b7fd680e-6d10-43e6-84f9-88eae8bf5929
