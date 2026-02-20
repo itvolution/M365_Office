@@ -22,3 +22,4 @@ https://www.perplexity.ai/
 
 
 =ZŁĄCZ.TEKST("""";A1;""",";"""";B1;""",";"""";C1;"""")
+new-item -Type File -Path Test.csv
